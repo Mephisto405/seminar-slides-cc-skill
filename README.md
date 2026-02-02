@@ -7,8 +7,8 @@
 ### 1. 레포지토리 클론
 
 ```bash
-git clone https://github.com/Mephisto405/seminar-slides.git
-cd seminar-slides
+git clone https://github.com/Mephisto405/seminar-slides-cc-skill.git
+cd seminar-slides-cc-skill
 ```
 
 ### 2. Claude Code에서 사용
@@ -94,7 +94,7 @@ cd seminar-slides
 ## 디렉토리 구조
 
 ```
-seminar-slides/
+seminar-slides-cc-skill/
 ├── .claude/
 │   └── skills/
 │       ├── pptx-skill/          # PowerPoint 생성 스킬
